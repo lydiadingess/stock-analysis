@@ -6,3 +6,5 @@ In this datasheet we determined the return percentage of multiple "green" stocks
 ![VBA_Challenge_2017]("C:\Users\lydia\OneDrive\Documents\resources\VBA Resources\VBA_Challenge_2017.png")
 ### 2018
 ![VBA_Challenge_2018]("C:\Users\lydia\OneDrive\Documents\resources\VBA Resources\VBA_Challenge_2018.png")
+
+
