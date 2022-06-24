@@ -3,7 +3,7 @@ In this datasheet we determined the return percentage of multiple "green" stocks
 
 ## Results:
 ### 2017
-![VBA_Challenge_2017]("C:\Users\lydia\OneDrive\Documents\bootcamp\GitHub\stock-analysis\VBA_Challenge_2017.png")
-### 2018
-![VBA_Challenge_2018]("C:\Users\lydia\OneDrive\Documents\bootcamp\GitHub\stock-analysis\VBA_Challenge_2018.png")
+![](VBA_Challenge_2017.png)
+
+
 
