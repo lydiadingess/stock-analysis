@@ -13,7 +13,7 @@ We are able to analyze the return percentage success between the years 2017 and 
 ### Original Script
 ![Original](originalscript.png)
 
-### Refractored Script
+### Refactored Script
 ![Refractored](newscript.png)
 
 When we run our analysis, our refractered code is about a full second faster than our original code. Refacorting our code took out extra steps that was causing our code to take extra time. Instead of looping through the data 12 times, we refractored the code to analyze the data as it went. This made our code more efficient. 
